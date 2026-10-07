@@ -128,7 +128,23 @@ Measurements (cm): [5.1, 3.5, 1.4, 0.2]
 Predicted species: setosa
 ```
 
-The script also saves three charts in the project folder: `iris_scatter.png`, `model_comparison.png` and `confusion_matrix.png`.
+The script also saves three charts in the project folder: 
+
+### 📈 Results
+
+**Petal length vs petal width**
+
+![Iris scatter plot](iris_scatter.png)
+
+**Model accuracy comparison**
+
+![Model comparison](model_comparison.png)
+
+**Confusion matrix (best model)**
+
+![Confusion matrix](confusion_matrix.png)
+
+
 
 ---
 
