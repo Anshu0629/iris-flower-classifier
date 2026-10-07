@@ -11,8 +11,8 @@ A beginner-friendly **machine learning project** that trains and compares three 
 
 ## 👤 Project Details
 
-| | |
-|---|---|
+   | Detail | Information |
+   |---|---|
 | **Author** | Anshuman Kapoor |
 | **Course** | B.Tech CSE (AI & ML), 1st Year, 1st Semester |
 | **University** | COER University |
